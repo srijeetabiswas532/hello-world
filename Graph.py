@@ -2,22 +2,6 @@
 
 #  Description: Performs various functions on a graph of cities.
 
-#  Student Name: Srijeeta Biswas
-
-#  Student UT EID: sb48779
-
-#  Partner Name: Kenneth Pham
-
-#  Partner UT EID: khp455
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/29/2019
-
-#  Date Last Modified: 4/29/2019
-
 # Stack class
 class Stack(object):
     # initializer
