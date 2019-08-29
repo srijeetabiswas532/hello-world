@@ -2,14 +2,6 @@
 
 #  Description: This program simulates a 5-Draw Poker game and returns a winner.
 
-#  Student Name: Srijeeta Biswas
-
-#  Student UT EID: sb48779
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
 #  Date Created: 2/16/2019
 
 #  Date Last Modified: 2/18/2019
