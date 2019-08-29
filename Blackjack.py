@@ -2,21 +2,6 @@
 
 # Description: This code is able to simulate a simple game of black jack.
 
-# Student's Name: Srijeeta Biswas
-
-# Student's UT EID: sb48779
-
-# Partner's Name: Kenneth Pham
-
-# Partner's UT EID: khp455
-
-# Course Name: CS 313E
-
-# Unique Number: 50725
-
-# Date Created: 2/25/2019
-
-# Date Last Modified: 2/25/2019
 import random
 
 
